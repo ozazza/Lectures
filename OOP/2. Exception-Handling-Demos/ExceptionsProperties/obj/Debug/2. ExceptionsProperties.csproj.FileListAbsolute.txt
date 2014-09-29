@@ -1,0 +1,5 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Exception-Handling-Demos\ExceptionsProperties\bin\Debug\ExceptionsProperties.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\2. ExceptionsProperties.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Exception-Handling-Demos\ExceptionsProperties\obj\Debug\ExceptionsProperties.pdb

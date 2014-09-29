@@ -1,0 +1,6 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\bin\Debug\SortIntegerArrayAscending.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\bin\Debug\SortIntegerArrayAscending.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\bin\Debug\SortIntegerArrayAscending.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\obj\Debug\SortIntegerArrayAscending.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\obj\Debug\SortIntegerArrayAscending.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\OOP-Help\SortIntegerArrayAscending\obj\Debug\SortIntegerArrayAscending.pdb

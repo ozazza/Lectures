@@ -1,0 +1,3 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Static-Members-and-Namespaces-Classwork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Static-Members-and-Namespaces-Classwork\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\2. Static-Members-and-Namespaces-Classwork\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

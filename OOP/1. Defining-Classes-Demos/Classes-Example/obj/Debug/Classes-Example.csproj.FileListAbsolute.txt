@@ -1,0 +1,6 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\bin\Debug\Classes-Example.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\bin\Debug\Classes-Example.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\bin\Debug\Classes-Example.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\obj\Debug\Classes-Example.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\obj\Debug\Classes-Example.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\Classes-Example\obj\Debug\Classes-Example.pdb

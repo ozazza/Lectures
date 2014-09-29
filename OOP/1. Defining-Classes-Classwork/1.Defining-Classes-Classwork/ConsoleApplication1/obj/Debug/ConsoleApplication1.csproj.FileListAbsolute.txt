@@ -1,0 +1,6 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Classwork\1.Defining-Classes-Classwork\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

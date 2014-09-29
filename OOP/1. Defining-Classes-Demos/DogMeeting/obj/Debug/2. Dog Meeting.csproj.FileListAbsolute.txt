@@ -1,0 +1,5 @@
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\DogMeeting\bin\Debug\DogMeeting.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\DogMeeting\bin\Debug\DogMeeting.pdb
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\DogMeeting\obj\Debug\2. Dog Meeting.csprojResolveAssemblyReference.cache
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.exe
+C:\Me\SoftUni Nakov\000 Lectures\Level-02\OOP\1. Defining-Classes-Demos\DogMeeting\obj\Debug\DogMeeting.pdb

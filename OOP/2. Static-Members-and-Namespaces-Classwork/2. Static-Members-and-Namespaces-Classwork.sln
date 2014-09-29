@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticExample1", "ConsoleApplication1\staticExample1.csproj", "{1B49298F-AB02-4A05-BC1F-E42008DB9928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpace", "staticExample2\NameSpace.csproj", "{D8C68153-D7A9-44BE-BA43-F37E7DCED0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B49298F-AB02-4A05-BC1F-E42008DB9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B49298F-AB02-4A05-BC1F-E42008DB9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B49298F-AB02-4A05-BC1F-E42008DB9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B49298F-AB02-4A05-BC1F-E42008DB9928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C68153-D7A9-44BE-BA43-F37E7DCED0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C68153-D7A9-44BE-BA43-F37E7DCED0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C68153-D7A9-44BE-BA43-F37E7DCED0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C68153-D7A9-44BE-BA43-F37E7DCED0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
